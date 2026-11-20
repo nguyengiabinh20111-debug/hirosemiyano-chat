@@ -36,4 +36,3 @@ export default {
     return j({ ok: false, error: "Not found" }, 404);
   }
 };
-        
